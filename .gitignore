@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Organizar o TailWind
+.prettierignore
+.prettierrc
+
+# Organizar o Commit
+commitlint.config.js
+lint-staged.config.js
