@@ -47,3 +47,8 @@ next-env.d.ts
 # Organizar o Commit
 commitlint.config.js
 lint-staged.config.js
+
+# Prisma
+
+/prisma/migrations
+schema.prisma
